@@ -28,6 +28,9 @@ The app will make money through the following streams:
 
 We plan to make it more accessible and available for other regions as we were only able to make it for our region (India) right now.
 
+## Update
+This project won the Runner up prize at [Explore Hacks 2021](https://explorehacks.devpost.com/). The UI which was designed by [Samvrant](https://www.behance.net/samvrant) led to us winning the Best UI Prize as well.
+
 ## External Links
 [API Repository](https://github.com/cotnw/vixit-api)<br>
 [Design File](https://www.figma.com/file/5nbVj1n141uWtUjEN4RoCG)
